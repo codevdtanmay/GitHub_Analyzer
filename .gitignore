@@ -1,1 +1,10 @@
 /.DS_Store
+/node_modules
+/dist
+/.env
+/.vscode
+/.idea
+/.cache
+/logs
+/coverage
+/.nyc_output
