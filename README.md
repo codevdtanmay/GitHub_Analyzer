@@ -4,6 +4,10 @@ An AI-powered web application that analyzes GitHub repositories and generates st
 
 ---
 
+## Links
+[🌐 Live Demo](https://github-analyzer-frontend-one.vercel.app/) • [⚙️ Backend API](https://github-analyzer-backend-vleh.onrender.com/)
+
+
 ## 🔥 Features
 
 - 🔍 Analyze any public GitHub repository  
