@@ -58,7 +58,6 @@ Create .env:
 PORT=5000  
 GITHUB_TOKEN=your_token  
 GEMINI_API_KEY=your_key  
-GROQ_API_KEY=your_key  
 
 npm start  
 
