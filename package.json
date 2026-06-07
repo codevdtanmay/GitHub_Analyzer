@@ -1,0 +1,13 @@
+{
+  "name": "github-analyzer",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "build": "npm --prefix frontend run build && node scripts/copy-dist.mjs",
+    "start": "npm --prefix backend start",
+    "dev": "npm --prefix backend run dev"
+  }
+}

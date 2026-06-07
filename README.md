@@ -71,7 +71,22 @@ npm start
 
 cd frontend  
 npm install  
+
 npm run dev  
+
+---
+
+### Deployment (recommended)
+
+From the repo root:
+
+npm install  
+
+npm run build  
+
+npm start  
+
+This builds the React app, copies the `frontend/dist` output into `backend/public`, and starts the Express backend serving the built frontend.
 
 ---
 
